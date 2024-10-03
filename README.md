@@ -24,7 +24,7 @@ Follow these instructions to get the project up and running on your local machin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/abdorhl/Athentication-Web-Api-dotNet.git
+git clone https://github.com/abdorhl/Authentication-Web-Api-dotNet.git
 cd AuthDotNet
 ```
 
