@@ -115,6 +115,3 @@ Cookie authentication is automatically handled when accessing web routes. No spe
 
 This project is licensed under the MIT License.
 
----
-
-Feel free to adjust the README to better match your project's structure and requirements!
