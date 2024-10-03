@@ -1,7 +1,3 @@
-Here's a sample README for your .NET 8 Web API project using Identity, Bearer Tokens, and Cookies for authentication:
-
----
-
 # .NET 8 Web API Authentication with Identity, Bearer Tokens & Cookies
 
 This project demonstrates how to implement authentication in a .NET 8 Web API using ASP.NET Core Identity with Bearer Tokens and Cookies for session management. It is designed for developers looking to secure Web APIs and manage user authentication using both token-based and cookie-based approaches.
