@@ -1,0 +1,6 @@
+@AuthDotNet_HostAddress = http://localhost:5032
+
+GET {{AuthDotNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
